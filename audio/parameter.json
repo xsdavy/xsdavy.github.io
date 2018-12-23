@@ -1,6 +1,6 @@
 {
 	"version":1,
-	"internal_test":1,
+	"internal_test":0,
 	"update_enable":100,
 	"data_bytes":1001,
 	"group_size":1002,
