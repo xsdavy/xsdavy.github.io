@@ -1,7 +1,7 @@
 {
-	"version":1,
+	"version":0,
 	"internal_test":0,
-	"update_enable":100,
+	"update_enable":1000,
 	"data_bytes":1001,
 	"group_size":1002,
 	"group_num":1003,
